@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03736994-3beb-48f5-8879-4e16271c0f14" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XIGsEAoVcogBJ1rrWdpX3LkfY7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "lab3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TriangleTest">
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vpo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="triangle" />
+      <option name="MAIN_CLASS_NAME" value="triangle.TriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.test_square_Normal_Triangle_tst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vpo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="triangle" />
+      <option name="MAIN_CLASS_NAME" value="triangle.TriangleTest" />
+      <option name="METHOD_NAME" value="test_square_Normal_Triangle_tst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.test_square_Wrong_Triangle_tst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vpo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="triangle" />
+      <option name="MAIN_CLASS_NAME" value="triangle.TriangleTest" />
+      <option name="METHOD_NAME" value="test_square_Wrong_Triangle_tst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.triangleSquare_Trows_Exception_Wrong_Triangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vpo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="triangle" />
+      <option name="MAIN_CLASS_NAME" value="triangle.TriangleTest" />
+      <option name="METHOD_NAME" value="triangleSquare_Trows_Exception_Wrong_Triangle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.TriangleTest.triangleSquare_Trows_Exception_Wrong_Triangle" />
+        <item itemvalue="JUnit.TriangleTest.test_square_Wrong_Triangle_tst" />
+        <item itemvalue="JUnit.TriangleTest.test_square_Normal_Triangle_tst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03736994-3beb-48f5-8879-4e16271c0f14" name="Changes" comment="" />
+      <created>1698309386516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698309386516</updated>
+      <workItem from="1698309388653" duration="4281000" />
+      <workItem from="1698421206725" duration="1315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
